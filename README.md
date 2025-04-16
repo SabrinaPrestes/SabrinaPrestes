@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👩🏻‍💻 Sabrina Prestes
 
-<!--
-**SabrinaPrestes/SabrinaPrestes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora Backend em Progresso`**
 
-Here are some ideas to get you started:
+Me chamo Sabrina e sou natural de São Paulo. Atualmente, estou cursando Segurança da Informação e trabalho como estagiária em desenvolvimento de automações. Tenho formação em Automação Industrial e mais de 7 anos de experiência na área comercial. Estou em transição de carreira para me tornar uma desenvolvedora backend, combinando minha paixão por tecnologia com minha experiência prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+        <a href="https://www.linkedin.com/in/sabrina-prestes-de-oliveira25/" target="_blank">
+        <img 
+            alt="LinkedIn Profile" 
+            title="Visite meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" 
+        />
+    </a>  
+</p>
+
+---
+
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
