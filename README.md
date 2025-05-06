@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend em Progresso`**
 
-Me chamo Sabrina e sou natural de São Paulo. Atualmente, estou cursando Segurança da Informação e trabalho como estagiária em desenvolvimento de automações. Tenho formação em Automação Industrial e mais de 7 anos de experiência na área comercial. Estou em transição de carreira para me tornar uma desenvolvedora backend.
+Estou cursando Segurança da Informação e trabalho como estagiária em desenvolvimento de automações mobile. Tenho formação em Automação Industrial e mais de 7 anos de experiência na área comercial. Estou em transição de carreira para me tornar uma desenvolvedora backend.
 
 <p align="left">
         <a href="https://www.linkedin.com/in/sabrina-prestes-de-oliveira25/" target="_blank">
