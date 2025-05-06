@@ -37,11 +37,19 @@ Me chamo Sabrina e sou natural de São Paulo. Atualmente, estou cursando Seguran
 />
 <img 
     align="left" 
-    alt="Cucumber" 
-    title="Cucumber" 
+    alt="MongoDB" 
+    title="MongoDB" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
 
 <br/><br/>
