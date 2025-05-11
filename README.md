@@ -27,14 +27,7 @@ Estou cursando Segurança da Informação e trabalho como estagiária em desenvo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Jenkins" 
-    title="Jenkins" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="MongoDB" 
@@ -51,5 +44,30 @@ Estou cursando Segurança da Informação e trabalho como estagiária em desenvo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" 
+/>
+
 
 <br/><br/>
