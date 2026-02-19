@@ -68,6 +68,14 @@ Desenvolvo automações para aplicações mobile com Java e Swift. Estou em tran
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Swift" 
+    title="Swift" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" 
+/>
 
 
 <br/><br/>
