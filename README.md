@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend em Progresso`**
 
-Estou cursando Segurança da Informação e trabalho como estagiária em desenvolvimento de automações mobile. Tenho formação em Automação Industrial e mais de 7 anos de experiência na área comercial. Estou em transição de carreira para me tornar uma desenvolvedora backend.
+Desenvolvo automações para aplicações mobile com Java e Swift. Estou em transição de carreira para me tornar uma desenvolvedora backend.
 
 <p align="left">
         <a href="https://www.linkedin.com/in/sabrina-prestes-de-oliveira25/" target="_blank">
